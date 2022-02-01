@@ -1,0 +1,22 @@
+h1
+    {color: deeppink;
+}
+img{
+    width: 400px
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500;
+    background-color: forestgreen;
+    border: 5px solid red;
+    padding: 50px;
+}
+
+#spanId{
+    font-size: 18px ;
+    margin: 50px;
+}
+html{
+    background-color: steelblue;
+}
